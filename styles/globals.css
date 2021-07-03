@@ -1,3 +1,14 @@
+@import "Home.css";
+@import "Header.css";
+@import "Sidebar.css";
+@import "SidebarOption.css";
+@import "EmailList.css";
+@import "Mail.css";
+@import "Section.css";
+@import "EmailRow.css";
+@import "SendMail.css";
+@import "Login.css";
+
 html,
 body {
   padding: 0;
@@ -12,5 +23,6 @@ a {
 }
 
 * {
-  box-sizing: border-box;
+  margin: 0;
+  overflow: hidden;
 }
